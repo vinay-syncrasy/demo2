@@ -1,1 +1,7 @@
 ram jdfbjg aam khata h
+
+Click "Run SQL" to execute the SQL statement above.
+W3Schools has created an SQL database in your browser.
+The menu to the right displays the database, and will reflect any changes.
+Feel free to experiment with any SQL statement.
+You can restore the database at any time.
