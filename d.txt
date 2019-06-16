@@ -1,4 +1,3 @@
-ram jdfbjg aam khata h
 
 Click "Run SQL" to execute the SQL statement above.
 W3Schools has created an SQL database in your browser.
